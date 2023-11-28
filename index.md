@@ -17,9 +17,12 @@ Quantitative biology, bioenergetics, theoretical immunology, and system medicine
 
 ## Education
 
-`Sep 2018 - Jul 2024` Ph.D. in Condensed Matter Physics (Biophysics),  __Peking University__, Beijing, China (Supervisor: Prof. Fangting Li)
+`Sep 2018 - Jul 2024` Ph.D. in Condensed Matter Physics (Biophysics),  __Peking University__, Beijing, China 
+- Supervisor: Prof. Fangting Li
 
-`Sep 2014 - Jun 2018` B.Sc. in Physics,  __Xiamen University__, Xiamen, Fujian, China (Supervisors: Prof. Jianwei Shuai and Prof. Chenxu Wu)
+`Sep 2014 - Jun 2018` B.Sc. in Physics,  __Xiamen University__, Xiamen, Fujian, China
+- Thesis: Double-edged Regulation Mechanism of RIP1 in Cell Death Signaling Pathways
+- Supervisors: Prof. Jianwei Shuai and Prof. Chenxu Wu
 
 `Sep 2011 - Jun 2014` Xiamen Foreign Language School, Xiamen, Fujian, China
 
@@ -42,17 +45,26 @@ Quantitative biology, bioenergetics, theoretical immunology, and system medicine
 
 [1] K. Xiao, __D.-J. Li__, and C.-X. Wu, Theoretical Studies and Molecular Dynamics Simulations on Ion Transport Properties in Nanochannels and Nanopores, [Chinese Physics B 27, 024702 (2018)](https://iopscience.iop.org/article/10.1088/1674-1056/27/2/024702/meta).
 
-#### In Preparation
+### In Preparation
 [3] __Dianjie Li__, et al. Virus-Immune Efficacy phase diagram as a general framework for predicting viral infection outcomes.
 
 [2] __Dianjie Li__, et al. The functions of ATP and hydrolysis free energy in biochemical switches: promoting and restraining.
 
 [1] De Zhao\*, Teng Wang\*, Jian Zhao\*, __Dianjie Li__\*, et al. Nonequilibrium and nonlinear kinetics as key determinants for bistability in fission yeast G2-M transition.
 
-
 ### Patents
 
 [1] Immune efficacy and clinical relative immune efficacy in assessing individual vaccine response, CN115184614A (2023).
+
+## Research Experience
+`Jan 2021 - Present` **Research on network dynamics of single-cell and multi-cell systems: from yeast to immune system | National Natural Science Foundation of China General Project | Doctoral Project January 2021 - present**
+Based on immunology knowledge and nonlinear dynamics theory, clinical data was analyzed to establish a dynamic model of COVID-19 infection and immune response. Python was used to numerically simulate and predict the disease progression of different patients, and a quantitative index for comprehensive evaluation of immunity and a method for predicting vaccine protection rate were proposed. This method can accelerate vaccine research and assist doctors in carrying out personalized treatment.
+
+`Sep 2018 - Feb 2022` **Energy dissipation and functional accuracy of complex life systems | National Natural Science Foundation of China Major Project Sub-project | Doctoral Project September 2018 - February 2022**
+A dynamic model of calcium signal transduction and cell cycle gene regulation in pancreatic β cells was constructed, and Python was used for numerical calculation to analyze the nonlinear effect of ATP hydrolysis free energy on insulin release process. Based on deep learning to identify the key time points of cell cycle transition in experimental data, the dynamic mechanism of ATP free energy affecting cell proliferation and division was analyzed.
+
+`Jan 2019 - Jun 2022` **Construction of high-version halophilic microbial chassis cells | National Key R&D Program of China Sub-project | Collaborative Project January 2019 - June 2022**
+Based on quantitative biology, microfluidic technology, and fluorescence microscopy observation experiments, a fast, efficient, and low-cost real-time monitoring method for intracellular bioplastic (PHA) content was proposed, and a visualization program was written in Python. This method can help optimize PHA production strategies and reduce production costs.
 
 ## Talks & Presentations
 `Aug 2023` __17th annual Q-Bio 2023 Conference__, Shenzhen, China, *Poster: ATP Hydrolysis Kinetics and Thermodynamics as Determinants of Calcium Oscillation in Pancreatic β Cells* __(Best Poster Award)__
@@ -64,8 +76,6 @@ Quantitative biology, bioenergetics, theoretical immunology, and system medicine
 `Jul 2021` __National Vaccine and Serum Institute's “Exploring Science & Science Exploration” Academic Forum__, Beijing, China, *Invited Talk: Mathematical models of virus infection and immune response: from influenza, AIDS to COVID-19*
 
 `Aug 2016` __2016 Cambridge Academic Development Seminar__, Cambridge, UK, *Group Presentation*
-
-## Research Experience
 
 
 ## Selected Awards and Honors
