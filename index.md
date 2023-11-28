@@ -19,7 +19,7 @@ Quantitative biology, bioenergetics, theoretical immunology, and system medicine
 
 `Sep 2018 - Jul 2024` Ph.D. in Condensed Matter Physics (Biophysics),  __Peking University__, Beijing, China (Supervisor: Prof. Fangting Li)
 
-`Sep 2014.09 - Jun 2018` B.Sc. in Physics,  __Xiamen University__, Xiamen, Fujian, China (Supervisors: Prof. Jianwei Shuai and Prof. Chenxu Wu)
+`Sep 2014 - Jun 2018` B.Sc. in Physics,  __Xiamen University__, Xiamen, Fujian, China (Supervisors: Prof. Jianwei Shuai and Prof. Chenxu Wu)
 
 `Sep 2011 - Jun 2014` Xiamen Foreign Language School, Xiamen, Fujian, China
 
@@ -40,7 +40,6 @@ Quantitative biology, bioenergetics, theoretical immunology, and system medicine
 
 [2] X. Wang\*, J.-N. Han\*, X. Zhang, Y.-Y. Ma, Y. Lin, H. Wang, __D.-J. Li__, T.-R. Zheng, F.-Q. Wu, and J.-W. Ye, Reversible Thermal Regulation for Bifunctional Dynamic Control of Gene Expression in Escherichia Coli, [Nature Communications 12, 1411 (2021)](https://www.nature.com/articles/s41467-021-21654-x).
 
-
 [1] K. Xiao, __D.-J. Li__, and C.-X. Wu, Theoretical Studies and Molecular Dynamics Simulations on Ion Transport Properties in Nanochannels and Nanopores, [Chinese Physics B 27, 024702 (2018)](https://iopscience.iop.org/article/10.1088/1674-1056/27/2/024702/meta).
 
 #### In Preparation
@@ -49,6 +48,7 @@ Quantitative biology, bioenergetics, theoretical immunology, and system medicine
 [2] __Dianjie Li__, et al. The functions of ATP and hydrolysis free energy in biochemical switches: promoting and restraining.
 
 [1] De Zhao\*, Teng Wang\*, Jian Zhao\*, __Dianjie Li__\*, et al. Nonequilibrium and nonlinear kinetics as key determinants for bistability in fission yeast G2-M transition.
+
 
 ### Patents
 
