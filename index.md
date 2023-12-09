@@ -19,11 +19,11 @@ Quantitative biology, bioenergetics, theoretical immunology, and system medicine
 ## Education
 
 `Sep 2018 - Jul 2024` Ph.D. in Condensed Matter Physics (Biophysics),  __Peking University__, Beijing, China 
-- Supervisor: Prof. Fangting Li
++ Supervisor: Prof. Fangting Li
 
 `Sep 2014 - Jun 2018` B.Sc. in Physics,  __Xiamen University__, Xiamen, Fujian, China
-- Thesis: Double-edged Regulation Mechanism of RIP1 in Cell Death Signaling Pathways
-- Supervisors: Prof. Jianwei Shuai and Prof. Chenxu Wu
++ Thesis: Double-edged Regulation Mechanism of RIP1 in Cell Death Signaling Pathways
++ Supervisors: Prof. Jianwei Shuai and Prof. Chenxu Wu
 
 `Sep 2011 - Jun 2014` Xiamen Foreign Language School, Xiamen, Fujian, China
 
@@ -59,23 +59,23 @@ Quantitative biology, bioenergetics, theoretical immunology, and system medicine
 
 ## Research Experience
 `Jan 2021 - Present` **Dynamic modelling of SARS-CoV-2 infection, immune response and vaccine protection**
-- PhD project, collaborated with Zhengqing Zhou and supervised by Prof. Fangting Li
-- Based on immunology, nonlinear dynamics and  clinical data analysis, we established a dynamic model of COVID-19 infection and immune response.
-- The model can simulate and predict the disease progression of different patients.
-- A quantitative index (__immune efficacy $\epsilon$__) for comprehensive __evaluation of immunity__ were proposed.
-- A method for __predicting vaccine efficacy__ were proposed, which may help accelerate vaccine research and assist doctors in carrying out personalized treatment.
++ PhD project, collaborated with Zhengqing Zhou and supervised by Prof. Fangting Li
++ Based on immunology, nonlinear dynamics and  clinical data analysis, we established a dynamic model of COVID-19 infection and immune response.
++ The model can simulate and predict the disease progression of different patients.
++ A quantitative index (__immune efficacy $\epsilon$__) for comprehensive __evaluation of immunity__ were proposed.
++ A method for __predicting vaccine efficacy__ were proposed, which may help accelerate vaccine research and assist doctors in carrying out personalized treatment.
 
 `Sep 2018 - Feb 2022` **Roles of ATP and hydrolysis free energy ($\Delta G$) in cellular signal transduction**
-- PhD project, supervised by Prof. Fangting Li
-- A dynamic model of calcium signal transduction in pancreatic β cells was constructed to analyze the nonlinear effect of ATP hydrolysis free energy on insulin release process.
-- Relation between network structures and critical roles of ATP/$\Delta G$ in yeast cell cycle regulation network.
++ PhD project, supervised by Prof. Fangting Li
++ A dynamic model of calcium signal transduction in pancreatic β cells was constructed to analyze the nonlinear effect of ATP hydrolysis free energy on insulin release process.
++ Relation between network structures and critical roles of ATP/$\Delta G$ in yeast cell cycle regulation network.
 
 `Jan 2019 - Jun 2022` **An efficient and low-cost method to monitor cellular PHA contents**
-- Collaborated with Dr. Xu Liu and supervised by Prof. Guo-Qiang Chen.
-- A fast, efficient, and low-cost real-time monitoring method for the content of intracellular polyhydroxyalkanoates (PHA) was proposed, which can help optimize PHA production strategies and reduce production costs.
++ Collaborated with Dr. Xu Liu and supervised by Prof. Guo-Qiang Chen.
++ A fast, efficient, and low-cost real-time monitoring method for the content of intracellular polyhydroxyalkanoates (PHA) was proposed, which can help optimize PHA production strategies and reduce production costs.
 
 `Oct 2017 - Jun 2018` **Double-edged Regulation Mechanism of RIP1 in Cell Death Signaling Pathways**
-- BSc thesis, Supervised by Prof. Jianwei Shuai and Prof. Xiang Li
++ BSc thesis, Supervised by Prof. Jianwei Shuai and Prof. Xiang Li
 
 ## Talks & Presentations
 `Aug 2023` __17th annual Q-Bio 2023 Conference__, Shenzhen, China, *Poster: ATP Hydrolysis Kinetics and Thermodynamics as Determinants of Calcium Oscillation in Pancreatic β Cells* __(Best Poster Award)__
@@ -108,9 +108,9 @@ Quantitative biology, bioenergetics, theoretical immunology, and system medicine
 
 ## Skills
 
-- __Programing Languages__: Famaliar with Python and Matlab, with a focus on solving Ordinary Differential Equations (ODEs), training deep learning models, and data analysis/visualization.
++ __Programing Languages__: Famaliar with Python and Matlab, with a focus on solving Ordinary Differential Equations (ODEs), training deep learning models, and data analysis/visualization.
 
-- __Experimental skills__: Have some experience in time-lapse fluorescence microscopy obervations using microfluidics.
++ __Experimental skills__: Have some experience in time-lapse fluorescence microscopy obervations using microfluidics.
 
 
 
