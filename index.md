@@ -4,6 +4,8 @@ title: Dianjie Li's CV
 ---
 # Dianjie Li
 
+School of Physics, Peking University, China
+
 <div id="webaddress">
 <a href="dianjieli@pku.edu.cn">dianjieli@pku.edu.cn</a>
 | <a href="https://eggyouknow.github.io/">Personal page</a>
