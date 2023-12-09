@@ -62,23 +62,27 @@ Quantitative biology, bioenergetics, theoretical immunology, and system medicine
 
 ## Research Experience
 -------------
-**Dynamic modelling of SARS-CoV-2 infection, immune response and vaccine protection** `Jan 2021 - Present`
+**Dynamic modelling of SARS-CoV-2 infection, immune response and vaccine protection** 
+`Jan 2021 - Present`
 - PhD project, collaborated with Zhengqing Zhou and supervised by Prof. Fangting Li
 - Based on immunology, nonlinear dynamics and  clinical data analysis, we established a dynamic model of COVID-19 infection and immune response.
 - The model can simulate and predict the disease progression of different patients.
-- A quantitative index (__immune efficacy $\epsilon$__) for comprehensive __evaluation of immunity__ were proposed.
+- A quantitative index (__immune efficacy ε__) for comprehensive __evaluation of immunity__ were proposed.
 - A method for __predicting vaccine efficacy__ were proposed, which may help accelerate vaccine research and assist doctors in carrying out personalized treatment.
 
-**Roles of ATP and hydrolysis free energy ($\Delta G$) in cellular signal transduction** `Sep 2018 - Feb 2022` 
+**Roles of ATP and hydrolysis free energy (ΔG) in cellular signal transduction** 
+`Sep 2018 - Feb 2022` 
 - PhD project, supervised by Prof. Fangting Li
 - A dynamic model of calcium signal transduction in pancreatic β cells was constructed to analyze the nonlinear effect of ATP hydrolysis free energy on insulin release process.
 - Relation between network structures and critical roles of ATP/$\Delta G$ in yeast cell cycle regulation network.
 
-**An efficient and low-cost method to monitor cellular PHA contents** `Jan 2019 - Jun 2022` 
+**An efficient and low-cost method to monitor cellular PHA contents** 
+`Jan 2019 - Jun 2022` 
 - Collaborated with Dr. Xu Liu and supervised by Prof. Guo-Qiang Chen.
 - A fast, efficient, and low-cost real-time monitoring method for the content of intracellular polyhydroxyalkanoates (PHA) was proposed, which can help optimize PHA production strategies and reduce production costs.
 
-**Double-edged Regulation Mechanism of RIP1 in Cell Death Signaling Pathways** `Oct 2017 - Jun 2018` 
+**Double-edged Regulation Mechanism of RIP1 in Cell Death Signaling Pathways**
+`Oct 2017 - Jun 2018` 
 - BSc thesis, Supervised by Prof. Jianwei Shuai and Prof. Xiang Li
 
 <br />
