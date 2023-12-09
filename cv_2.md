@@ -10,6 +10,7 @@ School of Physics, Peking University, China
 </center>
 
 __Research interests__
+
 Quantitative biology, bioenergetics, theoretical immunology, and system medicine
 
 
@@ -31,7 +32,7 @@ Quantitative biology, bioenergetics, theoretical immunology, and system medicine
 
 ## Publication
 ----------
-### Journals
+### **Journals**
 (\* equally contribution)
 
 [6] Z. Zhou\*, __D. Li__\*, Z. Zhao\*, S. Shi\*, J. Wu\*, J. Li, J. Zhang, K. Gui, Y. Zhang, and Q. Ouyang, Dynamical Modelling of Viral Infection and Cooperative Immune Protection in COVID-19 Patients, [PLOS Computational Biology 19, e1011383 (2023)](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011383).
@@ -46,14 +47,14 @@ Quantitative biology, bioenergetics, theoretical immunology, and system medicine
 
 [1] K. Xiao, __D.-J. Li__, and C.-X. Wu, Theoretical Studies and Molecular Dynamics Simulations on Ion Transport Properties in Nanochannels and Nanopores, [Chinese Physics B 27, 024702 (2018)](https://iopscience.iop.org/article/10.1088/1674-1056/27/2/024702/meta).
 
-### In Preparation
+### **In Preparation**
 [3] __Dianjie Li__, et al. Virus-Immune Efficacy phase diagram as a general framework for predicting viral infection outcomes.
 
 [2] __Dianjie Li__, et al. The functions of ATP and hydrolysis free energy in biochemical switches: promoting and restraining.
 
 [1] De Zhao\*, Teng Wang\*, Jian Zhao\*, __Dianjie Li__\*, et al. Nonequilibrium and nonlinear kinetics as key determinants for bistability in fission yeast G2-M transition.
 
-### Patents
+### **Patents**
 
 [1] Immune efficacy and clinical relative immune efficacy in assessing individual vaccine response, CN115184614A (2023).
 
