@@ -6,7 +6,8 @@ title: Dianjie Li's CV
 
 <div id="webaddress">
 <a href="dianjieli@pku.edu.cn">dianjieli@pku.edu.cn</a>
-| <a href="https://scholar.google.com/citations?user=buYSOXEAAAAJ&hl=en">Personal page</a>
+| <a href="https://eggyouknow.github.io/">Personal page</a>
+| <a href="https://scholar.google.com/citations?user=buYSOXEAAAAJ&hl=en">Google scholar</a>
 </div>
 
 
@@ -57,14 +58,24 @@ Quantitative biology, bioenergetics, theoretical immunology, and system medicine
 [1] Immune efficacy and clinical relative immune efficacy in assessing individual vaccine response, CN115184614A (2023).
 
 ## Research Experience
-`Jan 2021 - Present` **Research on network dynamics of single-cell and multi-cell systems: from yeast to immune system | National Natural Science Foundation of China General Project | Doctoral Project January 2021 - present**
-Based on immunology knowledge and nonlinear dynamics theory, clinical data was analyzed to establish a dynamic model of COVID-19 infection and immune response. Python was used to numerically simulate and predict the disease progression of different patients, and a quantitative index for comprehensive evaluation of immunity and a method for predicting vaccine protection rate were proposed. This method can accelerate vaccine research and assist doctors in carrying out personalized treatment.
+`Jan 2021 - Present` **Dynamic modelling of SARS-CoV-2 infection, immune response and vaccine protection**
+- PhD project, collaborated with Zhengqing Zhou and supervised by Prof. Fangting Li
+- Based on immunology, nonlinear dynamics and  clinical data analysis, we established a dynamic model of COVID-19 infection and immune response.
+- The model can simulate and predict the disease progression of different patients.
+- A quantitative index (__immune efficacy $\epsilon$__) for comprehensive __evaluation of immunity__ were proposed.
+- A method for __predicting vaccine efficacy__ were proposed, which may help accelerate vaccine research and assist doctors in carrying out personalized treatment.
 
-`Sep 2018 - Feb 2022` **Energy dissipation and functional accuracy of complex life systems | National Natural Science Foundation of China Major Project Sub-project | Doctoral Project September 2018 - February 2022**
-A dynamic model of calcium signal transduction and cell cycle gene regulation in pancreatic β cells was constructed, and Python was used for numerical calculation to analyze the nonlinear effect of ATP hydrolysis free energy on insulin release process. Based on deep learning to identify the key time points of cell cycle transition in experimental data, the dynamic mechanism of ATP free energy affecting cell proliferation and division was analyzed.
+`Sep 2018 - Feb 2022` **Roles of ATP and hydrolysis free energy ($\Delta G$) in cellular signal transduction**
+- PhD project, supervised by Prof. Fangting Li
+- A dynamic model of calcium signal transduction in pancreatic β cells was constructed to analyze the nonlinear effect of ATP hydrolysis free energy on insulin release process.
+- Relation between network structures and critical roles of ATP/$\Delta G$ in yeast cell cycle regulation network.
 
-`Jan 2019 - Jun 2022` **Construction of high-version halophilic microbial chassis cells | National Key R&D Program of China Sub-project | Collaborative Project January 2019 - June 2022**
-Based on quantitative biology, microfluidic technology, and fluorescence microscopy observation experiments, a fast, efficient, and low-cost real-time monitoring method for intracellular bioplastic (PHA) content was proposed, and a visualization program was written in Python. This method can help optimize PHA production strategies and reduce production costs.
+`Jan 2019 - Jun 2022` **An efficient and low-cost method to monitor cellular PHA contents**
+- Collaborated with Dr. Xu Liu and supervised by Prof. Guo-Qiang Chen.
+- A fast, efficient, and low-cost real-time monitoring method for the content of intracellular polyhydroxyalkanoates (PHA) was proposed, which can help optimize PHA production strategies and reduce production costs.
+
+`Oct 2017 - Jun 2018` **Double-edged Regulation Mechanism of RIP1 in Cell Death Signaling Pathways**
+- BSc thesis, Supervised by Prof. Jianwei Shuai and Prof. Xiang Li
 
 ## Talks & Presentations
 `Aug 2023` __17th annual Q-Bio 2023 Conference__, Shenzhen, China, *Poster: ATP Hydrolysis Kinetics and Thermodynamics as Determinants of Calcium Oscillation in Pancreatic β Cells* __(Best Poster Award)__
@@ -76,6 +87,9 @@ Based on quantitative biology, microfluidic technology, and fluorescence microsc
 `Jul 2021` __National Vaccine and Serum Institute's “Exploring Science & Science Exploration” Academic Forum__, Beijing, China, *Invited Talk: Mathematical models of virus infection and immune response: from influenza, AIDS to COVID-19*
 
 `Aug 2016` __2016 Cambridge Academic Development Seminar__, Cambridge, UK, *Group Presentation*
+
+## Teaching
+`2019` Teaching Assistant, Introduction to biophysics, Peking University.
 
 
 ## Selected Awards and Honors
@@ -92,7 +106,11 @@ Based on quantitative biology, microfluidic technology, and fluorescence microsc
 
 `2015` China National Scholarship
 
+## Skills
 
+- __Programing Languages__: Famaliar with Python and Matlab, with a focus on solving Ordinary Differential Equations (ODEs), training deep learning models, and data analysis/visualization.
+
+- __Experimental skills__: Have some experience in time-lapse fluorescence microscopy obervations using microfluidics.
 
 
 
