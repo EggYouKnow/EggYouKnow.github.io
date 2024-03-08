@@ -49,11 +49,11 @@ System biology, bioenergetics, theoretical immunology, gene regulatory network a
 [1] K. Xiao, __D.-J. Li__, and C.-X. Wu\#, Theoretical Studies and Molecular Dynamics Simulations on Ion Transport Properties in Nanochannels and Nanopores, [Chinese Physics B 27, 024702 (2018)](https://iopscience.iop.org/article/10.1088/1674-1056/27/2/024702/meta).
 
 ### In Preparation
-- __Dianjie Li__, et al. Virus-Immune Efficacy phase diagram as a general framework for predicting viral infection outcomes.
++ __Dianjie Li__, et al. Virus-Immune Efficacy phase diagram as a general framework for predicting viral infection outcomes.
 
-- __Dianjie Li__, et al. The interplay between ATP and hydrolysis free energy in promoting and restraining biochemical switches. (Submitted)
++ __Dianjie Li__, et al. The interplay between ATP and hydrolysis free energy in promoting and restraining biochemical switches. (Submitted)
 
-- De Zhao\*, Teng Wang\*, Jian Zhao\*, __Dianjie Li__\*, et al. Nonequilibrium and nonlinear kinetics as key determinants for bistability in fission yeast G2-M transition.
++ De Zhao\*, Teng Wang\*, Jian Zhao\*, __Dianjie Li__\*, et al. Nonequilibrium and nonlinear kinetics as key determinants for bistability in fission yeast G2-M transition.
 
 ### Patents
 
