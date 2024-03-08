@@ -11,7 +11,7 @@ School of Physics, Peking University, China
 
 __Research interests__
 
-Quantitative biology, bioenergetics, theoretical immunology, and system medicine
+System biology, bioenergetics, theoretical immunology, gene regulatory network and system medicine.
 
 
 ## Education
@@ -48,11 +48,11 @@ Quantitative biology, bioenergetics, theoretical immunology, and system medicine
 [1] K. Xiao, __D.-J. Li__, and C.-X. Wu, Theoretical Studies and Molecular Dynamics Simulations on Ion Transport Properties in Nanochannels and Nanopores, [Chinese Physics B 27, 024702 (2018)](https://iopscience.iop.org/article/10.1088/1674-1056/27/2/024702/meta).
 
 ### **In Preparation**
-[3] __Dianjie Li__, et al. Virus-Immune Efficacy phase diagram as a general framework for predicting viral infection outcomes.
+- __Dianjie Li__, et al. Virus-Immune Efficacy phase diagram as a general framework for predicting viral infection outcomes.
 
-[2] __Dianjie Li__, et al. The functions of ATP and hydrolysis free energy in biochemical switches: promoting and restraining.
+- __Dianjie Li__, et al. The interplay between ATP and hydrolysis free energy in promoting and restraining biochemical switches. (Submitted)
 
-[1] De Zhao\*, Teng Wang\*, Jian Zhao\*, __Dianjie Li__\*, et al. Nonequilibrium and nonlinear kinetics as key determinants for bistability in fission yeast G2-M transition.
+- De Zhao\*, Teng Wang\*, Jian Zhao\*, __Dianjie Li__\*, et al. Nonequilibrium and nonlinear kinetics as key determinants for bistability in fission yeast G2-M transition.
 
 ### **Patents**
 
@@ -109,6 +109,8 @@ Quantitative biology, bioenergetics, theoretical immunology, and system medicine
 
 ## Selected Awards and Honors
 ------------------
+
+`2024` The Third Prize Scholarship, Center for Quantitative Biology, Peking University
 
 `2023` President’s Scholarship (PhD), Peking University
 
