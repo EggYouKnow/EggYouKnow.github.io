@@ -15,13 +15,14 @@ School of Physics, Peking University, China
 
 ### Research interests
 
-System biology, bioenergetics, theoretical immunology, gene regulatory network and system medicine.
+Systems biology, bioenergetics, theoretical immunology, gene regulatory network and systems medicine.
 
 
 ## Education
 
 `Sep 2018 - Jul 2024` Ph.D. in Condensed Matter Physics (Biophysics),  __Peking University__, Beijing, China 
 + \- Supervisor: Prof. Fangting Li
++ \- Thesis: Thermodynamics of Cellular Regulatory Networks and Response Dynamics of the Immune System 
 
 `Sep 2014 - Jun 2018` B.Sc. in Physics,  __Xiamen University__, Xiamen, Fujian, China
 + \- Thesis: Double-edged Regulation Mechanism of RIP1 in Cell Death Signaling Pathways
