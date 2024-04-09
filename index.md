@@ -8,8 +8,9 @@ School of Physics, Peking University, China
 
 <div id="webaddress">
 <a href="dianjieli@pku.edu.cn">dianjieli@pku.edu.cn</a>
-| <a href="https://eggyouknow.github.io/">Personal page</a>
-| <a href="https://scholar.google.com/citations?user=buYSOXEAAAAJ&hl=en">Google scholar</a>
+| <a href="https://eggyouknow.github.io/">Personal Page</a>
+| <a href="https://scholar.google.com/citations?user=buYSOXEAAAAJ&hl=en">Google Scholar</a>
+| <a href="https://www.researchgate.net/profile/Dianjie-Li-2">Research Gate</a>
 </div>
 
 
