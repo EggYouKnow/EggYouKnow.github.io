@@ -51,7 +51,7 @@ Systems biology, bioenergetics, theoretical immunology, gene regulatory network 
 [1] K. Xiao, __D.-J. Li__, and C.-X. Wu\#, Theoretical Studies and Molecular Dynamics Simulations on Ion Transport Properties in Nanochannels and Nanopores, [Chinese Physics B 27, 024702 (2018)](https://iopscience.iop.org/article/10.1088/1674-1056/27/2/024702/meta).
 
 ### In Preparation
-[1] __D. Li__, S. liao, Q. Ouyang, and F. Li\#. The interplay between ATP and hydrolysis free energy in promoting and restraining biochemical switches. (Submitted to _Phys. Rev. Research_, under review)
+[1] __D. Li__, S. Liao, Q. Ouyang, and F. Li\#. The interplay between ATP and hydrolysis free energy in promoting and restraining biochemical switches. (Submitted to _Phys. Rev. Research_, under review)
 
 [2] __D. Li__\*, Y. Lin\*, F. Sun, J. Li, F. Li\#, and S. Ye\#. The association between COVID-19 rebound and immune efficacy in hospitalised patients treated with Nirmatrelvir/Ritonavir. (Submitted to _Journal of Virology_, under riview)
 
