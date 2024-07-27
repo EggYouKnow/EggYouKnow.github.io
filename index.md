@@ -38,6 +38,8 @@ Systems biology, bioenergetics, theoretical immunology, gene regulatory network 
 ### Journals
 (\* equally contribution, \# corresponding author)
 
+[7] __D. Li__, S. Liao, Q. Ouyang, and F. Li\#. Interplay between ATP and hydrolysis free energy in promoting and restraining biochemical switches, [Phys. Rev. Research 6, 033050 (2024)](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.6.033050).
+
 [6] Z. Zhou\*, __D. Li__\*, Z. Zhao\*, S. Shi\*, J. Wu\*, J. Li, J. Zhang, K. Gui, Y. Zhang, Q. Ouyang, H. Mei\#, Y. Hu\#, and Fangting Li\#, Dynamical Modelling of Viral Infection and Cooperative Immune Protection in COVID-19 Patients, [PLOS Computational Biology 19, e1011383 (2023)](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011383).
 
 [5] Y. Sun\*, __D. Li__\*, C. Ni, Y. Ge, H. Qian, Q. Ouyang, and F. Li\#, ATP Hydrolysis Kinetics and Thermodynamics as Determinants of Calcium Oscillation in Pancreatic β Cells, [Phys. Rev. Research 4, 043142 (2022)](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.4.043142).
@@ -51,13 +53,11 @@ Systems biology, bioenergetics, theoretical immunology, gene regulatory network 
 [1] K. Xiao, __D.-J. Li__, and C.-X. Wu\#, Theoretical Studies and Molecular Dynamics Simulations on Ion Transport Properties in Nanochannels and Nanopores, [Chinese Physics B 27, 024702 (2018)](https://iopscience.iop.org/article/10.1088/1674-1056/27/2/024702/meta).
 
 ### In Preparation
-[1] __D. Li__, S. Liao, Q. Ouyang, and F. Li\#. The interplay between ATP and hydrolysis free energy in promoting and restraining biochemical switches. (Submitted to _Phys. Rev. Research_, under review)
+[1] __D. Li__\*, Y. Lin\*, F. Sun, J. Li, F. Li\#, and S. Ye\#. The association between COVID-19 rebound and immune efficacy in hospitalised patients treated with Nirmatrelvir/Ritonavir. (In preparation)
 
-[2] __D. Li__\*, Y. Lin\*, F. Sun, J. Li, F. Li\#, and S. Ye\#. The association between COVID-19 rebound and immune efficacy in hospitalised patients treated with Nirmatrelvir/Ritonavir. (Submitted to _Journal of Virology_, under riview)
+[2] De Zhao\*, Teng Wang\*, Jian Zhao\*, __Dianjie Li__\*, et al. Nonequilibrium and nonlinear kinetics as key determinants for bistability in fission yeast G2-M transition.
 
-[3] De Zhao\*, Teng Wang\*, Jian Zhao\*, __Dianjie Li__\*, et al. Nonequilibrium and nonlinear kinetics as key determinants for bistability in fission yeast G2-M transition.
-
-[4] __Dianjie Li__, et al. Virus-Immune Efficacy phase diagram as a general framework for predicting viral infection outcomes.
+[3] __Dianjie Li__, et al. Virus-Immune Efficacy phase diagram as a general framework for predicting viral infection outcomes.
 
 ### Patents
 
